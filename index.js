@@ -1,4 +1,5 @@
-// Serveur Node.js pour sécuriser les appels à l'API Notion
+
+// Serveur Node.js en CommonJS pour sécuriser les appels à l'API Notion
 const express = require('express');
 const fetch = require('node-fetch');
 const cors = require('cors');
